@@ -19,10 +19,10 @@ I’m a passionate engineer with 3+ years of experience building intelligent, sc
 ---
 
 📈 **Featured Projects**  
-- 🧪 [Quizifyr](https://github.com/saicode/quizifyr) – Adaptive quiz engine with RAG and image-based MCQ generation  
-- 📄 [Resume Parser](https://github.com/saicode/resume-parser) – ATS-friendly NLP pipeline for resume scoring and JD matching  
-- 🧠 [Multilingual AI Chatbot](https://github.com/saicode/multilingual-chatbot) – Real-time website assistant supporting Hindi + English  
-- 📊 [Financial Insights Dashboard](https://github.com/saicode/agri-financial-insights-dash) – Agriculture analytics with Plotly, FastAPI, and AI summaries
+- 🧪 [Zeez AI](https://github.com/Myblogspott/Zeez-AI) – Adaptive quiz engine with RAG and image-based MCQ generation  
+- 📄 [Scorify AI](https://github.com/Myblogspott/Scorify) – ATS-friendly NLP pipeline for resume scoring and JD matching  
+- 🧠 [Multilingual AI Chatbot](https://github.com/Myblogspott/LingoMate-AI) – Real-time website assistant supporting Hindi + English  
+- 📊 [Resume-Parser](https://github.com/Myblogspott/resume-parser) – Agriculture analytics with Plotly, FastAPI, and AI summaries
 
 ---
 
@@ -35,9 +35,8 @@ I’m a passionate engineer with 3+ years of experience building intelligent, sc
 ---
 
 📬 **Let's Connect**  
-💼 [LinkedIn](https://linkedin.com/in/sai-raghavendra)  
-🌐 [Portfolio](https://portfolio.ai/sai)  
-🧠 [Blog](https://medium.com/@saicode) – Sharing AI experiences, resume tips & project walkthroughs
+💼 [LinkedIn](https://www.linkedin.com/in/sairaghavendramaddula/)  
+🌐 [Portfolio](https://myblogspott.com)  
 
 ---
 
