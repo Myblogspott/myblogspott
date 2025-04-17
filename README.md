@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi there! I'm Sai Raghavendra Maddula 👋  
+🎓 AI/ML Engineer | Full-Stack Developer | Open Source Contributor  
+📍 Based in Dallas, TX | Open to global collaborations
 
-<!--
-**Myblogspott/myblogspott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔍 **About Me**  
+I’m a passionate engineer with 3+ years of experience building intelligent, scalable systems. My work spans across AI/ML applications, LLM orchestration (RAG, fine-tuning, embeddings), and full-stack development using modern web frameworks. I thrive in high-impact teams and love solving real-world problems with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **What I Do**  
+- 🤖 Build AI-powered apps using OpenAI, LangChain, LlamaIndex, and HuggingFace  
+- 🌐 Design secure and performant full-stack systems (React, Flask, Node.js)  
+- 📦 Architect ML pipelines and vector databases (Pinecone, FAISS, Weaviate)  
+- ☁️ Deploy solutions with AWS, Docker, GitHub Actions, and Terraform  
+- 🧠 Evaluate LLMs for enterprise use cases (BERT, GPT, SLMs, Claude, Gemini)
+
+---
+
+📈 **Featured Projects**  
+- 🧪 [Quizifyr](https://github.com/saicode/quizifyr) – Adaptive quiz engine with RAG and image-based MCQ generation  
+- 📄 [Resume Parser](https://github.com/saicode/resume-parser) – ATS-friendly NLP pipeline for resume scoring and JD matching  
+- 🧠 [Multilingual AI Chatbot](https://github.com/saicode/multilingual-chatbot) – Real-time website assistant supporting Hindi + English  
+- 📊 [Financial Insights Dashboard](https://github.com/saicode/agri-financial-insights-dash) – Agriculture analytics with Plotly, FastAPI, and AI summaries
+
+---
+
+🌱 **Currently Exploring**  
+- Microsoft’s Responsible AI toolkits & prompt flow  
+- LLMOps with LangGraph and LangSmith  
+- Retrieval strategies for multi-tenant AI agents  
+- Fine-tuning open-source models like Mistral 7B
+
+---
+
+📬 **Let's Connect**  
+💼 [LinkedIn](https://linkedin.com/in/sai-raghavendra)  
+🌐 [Portfolio](https://portfolio.ai/sai)  
+🧠 [Blog](https://medium.com/@saicode) – Sharing AI experiences, resume tips & project walkthroughs
+
+---
+
+💡 _“I build with intention, learn with humility, and ship with scale in mind.”_  
