@@ -5,7 +5,7 @@ Hi there! I'm Sai Raghavendra Maddula 👋
 ---
 
 🔍 **About Me**  
-I’m a passionate engineer with 3+ years of experience building intelligent, scalable systems. My work spans across AI/ML applications, LLM orchestration (RAG, fine-tuning, embeddings), and full-stack development using modern web frameworks. I thrive in high-impact teams and love solving real-world problems with code.
+I’m a passionate engineer with 9 years of experience building intelligent, scalable systems. My work spans across AI/ML applications, LLM orchestration (RAG, fine-tuning, embeddings), and full-stack development using modern web frameworks. I thrive in high-impact teams and love solving real-world problems with code.
 
 ---
 
